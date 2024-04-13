@@ -5,6 +5,6 @@
 
 **Motor** - Thorlabs VC125/M
 
-**Motor driver** - L293D
+**Motor driver** - L298N
 
-**Energy source** - 6V (4 x 1.5V AA battery in series)
+**Energy source** - 0-15V DC lab power supply
